@@ -7,7 +7,6 @@ This repository contains descriptions of, and links to, all projects created by 
 * [Brain Age](#brain-age)
 * [NIPYPE pals: TVB](#nipype-pals-tvb)
 * [ConvOuch](#convouch)
-* [study_forrest](#study_forrest)
 
 
 ### Project template
@@ -45,9 +44,10 @@ When adding a new project to the listing, please copy and paste the template bel
 **Description of project**: Train a simple convolutional neural network to classify brain CT images has having an intracranial hemorrhage or not. Determine and select usable scans and organize them in the BIDS format\
 **How to get involved**: Try the model code with your own data!
 
-### study_forrest
+### better-google
 
-**Name**: study_forrest\
-**Project url(s)**: http://studyforrest.org/
-**Contributors**: Aya Ben-yakov, [Jeff Brooks](https://github.com/jeffreyallenbrooks), [Jin Cheong](https://github.com/jcheong0428), [Joao Guassi Moreira](https://github.com/jguassimoreira), Zheng Ma
-**Description of project**: Broadly, examine how neural representations of characters and emotions are shared between observers, change with experience, and track with other aspects of physiology. 
+**Name**: better-google\
+**Project url(s)**: https://github.com/tjlagrow/better-google \
+**Contributors**: [Shreyas Pandhy](https://github.com/shreyaspadhy), [TJ LaGrow](https://github.com/tjlagrow), [Saige Rutherford](https://github.com/saigerutherford), [Anita Sinha](https://github.com/amsinha9), [Patrick Beukema](https://github.com/pbeukema)\
+**Description of project**: Train a u-net to generate T2 images from T1 images using the Human Connectome Project (HCP) data\
+**How to get involved**: Try the code with your own deep learning project. Also, check out easyhcp for an easier way to access HCP data: https://github.com/shreyaspadhy/easyhcp
